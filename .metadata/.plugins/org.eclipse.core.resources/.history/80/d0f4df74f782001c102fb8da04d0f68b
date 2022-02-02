@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendJSON="http://www.talend.org/json" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_3qLneILxEeyw0uQVkaYVGA" id="_3qAoUILxEeyw0uQVkaYVGA" label="Products" version="0.1" statusCode="" item="_3qLneoLxEeyw0uQVkaYVGA" displayName="Products">
+    <author href="../../talend.project#_d032UYLxEeyw0uQVkaYVGA"/>
+    <additionalProperties xmi:id="_3qNcoILxEeyw0uQVkaYVGA" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_3qNcoYLxEeyw0uQVkaYVGA" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_3qNcooLxEeyw0uQVkaYVGA" key="created_date" value="2022-02-01T00:59:47.562+0100"/>
+    <additionalProperties xmi:id="_3qNco4LxEeyw0uQVkaYVGA" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_3qNcpILxEeyw0uQVkaYVGA" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_3qNcpYLxEeyw0uQVkaYVGA" key="modified_date" value="2022-02-01T00:59:47.562+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_M0DK4IL3Eeyw0uQVkaYVGA" path=""/>
+  <TalendJSON:JSONFileConnectionItem xmi:id="_3qLneoLxEeyw0uQVkaYVGA" property="_3qLneILxEeyw0uQVkaYVGA" state="_M0DK4IL3Eeyw0uQVkaYVGA">
+    <connection href="Products_0.1.item#_3qH9EILxEeyw0uQVkaYVGA"/>
+  </TalendJSON:JSONFileConnectionItem>
+</xmi:XMI>

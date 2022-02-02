@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_5sI04IOxEeysho6cKZtCQw" id="_5okjgIOxEeysho6cKZtCQw" label="Products" purpose="API" description="Sauvegarder la liste des produits récupérée par requête dans un fichier&#xD;&#xA;json brut et de générer un output contenant les moyennes de reviews dans deux fichiers csvséparés." version="0.1" statusCode="" item="_5sI04oOxEeysho6cKZtCQw" displayName="Products">
+    <author href="../talend.project#_MZEqkYOxEeysho6cKZtCQw"/>
+    <additionalProperties xmi:id="_5sKDAIOxEeysho6cKZtCQw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_5sKDAYOxEeysho6cKZtCQw" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_5sKDAoOxEeysho6cKZtCQw" key="created_date" value="2022-02-01T23:54:24.560+0100"/>
+    <additionalProperties xmi:id="_5sKDA4OxEeysho6cKZtCQw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_5sKDBIOxEeysho6cKZtCQw" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_5sKDBYOxEeysho6cKZtCQw" key="modified_date" value="2022-02-01T23:54:24.560+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_5sI04YOxEeysho6cKZtCQw" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_5sI04oOxEeysho6cKZtCQw" property="_5sI04IOxEeysho6cKZtCQw" state="_5sI04YOxEeysho6cKZtCQw">
+    <process href="Products_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

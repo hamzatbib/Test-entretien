@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Ax1t4INSEeyw0uQVkaYVGA" id="_Ax1G0INSEeyw0uQVkaYVGA" label="productparproduit" version="0.1" statusCode="" item="_Ax1t4oNSEeyw0uQVkaYVGA" maxInformationLevel="ERROR" displayName="productparproduit">
+    <author href="../talend.project#_d032UYLxEeyw0uQVkaYVGA"/>
+    <informations xmi:id="_qeUMAINSEeyw0uQVkaYVGA" level="ERROR" text="category cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMAYNSEeyw0uQVkaYVGA" level="ERROR" text="imageUrl cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMAoNSEeyw0uQVkaYVGA" level="ERROR" text="imageUrl cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMA4NSEeyw0uQVkaYVGA" level="ERROR" text="content cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMBINSEeyw0uQVkaYVGA" level="ERROR" text="content cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMBYNSEeyw0uQVkaYVGA" level="ERROR" text="description cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMBoNSEeyw0uQVkaYVGA" level="ERROR" text="price cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMB4NSEeyw0uQVkaYVGA" level="ERROR" text="category cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMCINSEeyw0uQVkaYVGA" level="ERROR" text="imageUrl cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMCYNSEeyw0uQVkaYVGA" level="ERROR" text="content cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMCoNSEeyw0uQVkaYVGA" level="ERROR" text="description cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMC4NSEeyw0uQVkaYVGA" level="ERROR" text="description cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMDINSEeyw0uQVkaYVGA" level="ERROR" text="price cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMDYNSEeyw0uQVkaYVGA" level="ERROR" text="price cannot be resolved or is not a field"/>
+    <informations xmi:id="_qeUMDoNSEeyw0uQVkaYVGA" level="ERROR" text="category cannot be resolved or is not a field"/>
+    <additionalProperties xmi:id="_Ax28AINSEeyw0uQVkaYVGA" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_Ax28AYNSEeyw0uQVkaYVGA" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_Ax28AoNSEeyw0uQVkaYVGA" key="created_date" value="2022-02-01T12:28:00.448+0100"/>
+    <additionalProperties xmi:id="_Ax28A4NSEeyw0uQVkaYVGA" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_Ax28BINSEeyw0uQVkaYVGA" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_Ax28BYNSEeyw0uQVkaYVGA" key="modified_date" value="2022-02-01T12:32:56.395+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Ax1t4YNSEeyw0uQVkaYVGA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_Ax1t4oNSEeyw0uQVkaYVGA" property="_Ax1t4INSEeyw0uQVkaYVGA" state="_Ax1t4YNSEeyw0uQVkaYVGA">
+    <process href="productparproduit_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="JobScriptsExportWizard">
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_WSDL_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_WEBXML_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_CONFIGFILE_ID"/>
+		<item value="false" key="JavaJobScriptsExportWizardPage.STORE_DEPENDENCIES_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_SOURCE_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_SYSTEM_ROUTINE_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_CONTEXT_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_WSDD_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_USER_ROUTINE_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_JOB_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_MODEL_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_SHELL_LAUNCHER_ID"/>
+		<item value="true" key="JavaJobScriptsExportWizardPage.STORE_AXISLIB_ID"/>
+		<item value="false" key="JavaJobScriptsExportWizardPage.APPLY_TO_CHILDREN_ID"/>
+	</section>
+	<section name="ExportItemWizard">
+		<section name="destinationFile">
+			<item value="C:\Users\Admin\Desktop\TOS_DI-Win32-20200219_1130-V7.3.1\workspace" key="directoryPath"/>
+		</section>
+	</section>
+</section>

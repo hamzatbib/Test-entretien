@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_xdxW0INlEeyO8InaF2w-YQ" id="_xdwvwINlEeyO8InaF2w-YQ" label="test" version="0.1" statusCode="" item="_xdxW0oNlEeyO8InaF2w-YQ" displayName="test">
+    <author href="../talend.project#_c1LgAYNWEeyO8InaF2w-YQ"/>
+    <additionalProperties xmi:id="_xdyk8INlEeyO8InaF2w-YQ" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_xdyk8YNlEeyO8InaF2w-YQ" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_xdyk8oNlEeyO8InaF2w-YQ" key="created_date" value="2022-02-01T14:49:27.615+0100"/>
+    <additionalProperties xmi:id="_xdyk84NlEeyO8InaF2w-YQ" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_xdyk9INlEeyO8InaF2w-YQ" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_xdyk9YNlEeyO8InaF2w-YQ" key="modified_date" value="2022-02-01T15:56:54.317+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_xdxW0YNlEeyO8InaF2w-YQ" path="" locked="true" lockDate="2022-02-01T14:49:27.700+0100">
+    <locker href="../talend.project#_c1LgAYNWEeyO8InaF2w-YQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_xdxW0oNlEeyO8InaF2w-YQ" property="_xdxW0INlEeyO8InaF2w-YQ" state="_xdxW0YNlEeyO8InaF2w-YQ">
+    <process href="test_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
