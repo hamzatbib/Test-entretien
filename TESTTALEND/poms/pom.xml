@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/extract_from_webservice_0.1</module>
+    <module>jobs/process/test_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TESTTALEND</talend.project.name>
